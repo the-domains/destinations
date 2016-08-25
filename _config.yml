@@ -1,0 +1,14 @@
+layout_spectrum: 0.12996835238300264
+typography_spectrum: 0.40365807223133743
+color:
+  brandStrength: 0.9535484099760652
+  lightness: 0.38293348671868443
+  saturation: 0.29751725401729345
+  rhythmicContrast: 0.3164795497432351
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+name: Destinations
