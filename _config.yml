@@ -1,4 +1,3 @@
-layout_spectrum: 0.12996835238300264
 typography_spectrum: 0.40365807223133743
 color:
   brandStrength: 0.9535484099760652
@@ -11,4 +10,6 @@ color:
     - '#911146'
     - '#CF4A30'
     - '#ED8C2B'
+layout_spectrum: 0.12996835238300264
 name: Destinations
+title: Must See Destinations
